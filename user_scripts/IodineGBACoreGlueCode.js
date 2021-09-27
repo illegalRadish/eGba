@@ -34,6 +34,7 @@ var games = {
     "croket4":"Croket! 4 - Bank no Mori no Mamorigami",
     "digimon_racing":"Digimon Racing",
     "dbz_supersonic":"Dragon Ball Z - Supersonic Warriors",
+    "dmpl":"Dr. Mario+Puzzle League",
     "dkkos":"DK - King Of Swing",
     "dkc":"Donkey Kong Country",
     "dkc2":"Donkey Kong Country 2",
