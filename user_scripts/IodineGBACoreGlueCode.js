@@ -63,6 +63,7 @@ var games = {
     "hmmfmt":"Harvest Moon - More Friends Of Mineral Town",
     "iridion":"Iridion 3D",
     "puyopop":"Puyo Pop",
+    "khcom":"Kingdom Hearts - Chain Of Memories",
     "kirbymirror":"Kirby & The Amazing Mirror",
     "kirbynightmare":"Kirby: Nightmare in Dreamland",
     "mariokart":"Mario Kart: Super Circuit",
