@@ -66,6 +66,8 @@ var games = {
     "khcom":"Kingdom Hearts - Chain Of Memories",
     "kirbymirror":"Kirby & The Amazing Mirror",
     "kirbynightmare":"Kirby: Nightmare in Dreamland",
+    "lsw":"Lego Star Wars",
+    "lsw2":"Lego Star Wars 2",
     "mariokart":"Mario Kart: Super Circuit",
     "marioland":"The Mario Land Collection",
     "marioparty":"Mario Party Advance",
