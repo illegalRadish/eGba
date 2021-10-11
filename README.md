@@ -6,6 +6,7 @@ GBA Emulator is a free, online GBA emulator with 150+ Games to play!
 
 https://browncha023.github.io/GBA/
 
-# *Find A Game Breking Bug?*
+<br>
+*Find A Game Breking Bug?*
 
 Report it here: https://github.com/Browncha023/GBA/issues
