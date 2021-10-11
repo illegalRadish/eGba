@@ -1,20 +1,5 @@
 "use strict";
-/*
- * This file is part of IodineGBA
- *
- * Copyright (C) 2012-2013 Grant Galitz
- *
- * This program is free software; you can redistribute it and/or
- * modify it under the terms of the GNU General Public License
- * version 2 as published by the Free Software Foundation.
- * The full license is available at http://www.gnu.org/licenses/gpl.html
- *
- * This program is distributed in the hope that it will be useful,
- * but WITHOUT ANY WARRANTY; without even the implied warranty of
- * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
- * GNU General Public License for more details.
- *
- */
+
 var games = {
     "advancewars":"Advance Wars",
     "advancewars2":"Advance Wars 2",
@@ -68,6 +53,8 @@ var games = {
     "kirbynightmare":"Kirby: Nightmare in Dreamland",
     "lsw":"Lego Star Wars",
     "lsw2":"Lego Star Wars 2",
+    "lotr2":"Lord Of The Rings: The Two Towers",
+    "lotr3":"Lord Of The Rings: The Return Of The King",
     "mariokart":"Mario Kart: Super Circuit",
     "marioland":"The Mario Land Collection",
     "marioparty":"Mario Party Advance",
