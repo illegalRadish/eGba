@@ -8,6 +8,6 @@ https://browncha023.github.io/GBA/
 
 <br>
 
-_*Find A Game Breaking Bug?*_
+*Find A Game Breaking Bug?*
 
 Report it here: https://github.com/Browncha023/GBA/issues
