@@ -78,6 +78,7 @@ var games = {
     "monopoly":"Monopoly",
     "monster_force":"Monster Force",
     "mortal_kombat":"Mortal Kombat Advance",
+    "m3":"Mother 3",
     "nesgh1":"NES Greatest Hits 1",
     "nfsu":"Need For Speed - Underground",
     "nfsu2":"Need For Speed - Underground 2",
@@ -104,6 +105,7 @@ var games = {
     "pokewb":"Pokemon Water Blue (Fire Red Mod)",
     "ppf":"Puyo Pop Fever",
     "r3hh":"Rayman 3 - Hoodlum Havoc",
+    "rtpl":"Rivera - The Promised Land",
     "sonic_advance":"Sonic Advance",
     "sonic_advance2":"Sonic Advance 2",
     "sonic_advance3":"Sonic Advance 3",
@@ -136,6 +138,7 @@ var games = {
     "unsb":"Uno+Skip-Bo",
     "warioland4":"Wario Land 4",
     "wario_ware":"Wario Ware Inc",
+    "ynfa":"Yggdra Union - We'll Never Fight Alone",
     "zelda_past":"The Legend of Zelda: A Link to the Past",
     "zelda_minish":"The Legend of Zelda: The Minish Cap"
 };
