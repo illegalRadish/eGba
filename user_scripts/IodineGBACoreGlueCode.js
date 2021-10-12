@@ -100,6 +100,8 @@ var games = {
     "gba_video_pokemon_3":"Pokemon Video Pak 3",
     "gba_video_pokemon_4":"Pokemon Video Pak 4",
     "pprs":"Pokemon Pinball - Ruby & Sapphire",
+    "ppr":"Pokemon Rocket Strike (Fire Red Mod)",
+    "pokewb":"Pokemon Water Blue (Fire Red Mod)",
     "ppf":"Puyo Pop Fever",
     "r3hh":"Rayman 3 - Hoodlum Havoc",
     "sonic_advance":"Sonic Advance",
