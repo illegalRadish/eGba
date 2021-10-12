@@ -52,7 +52,6 @@ var games = {
     "kirbymirror":"Kirby & The Amazing Mirror",
     "kirbynightmare":"Kirby: Nightmare in Dreamland",
     "lsw":"Lego Star Wars",
-    "lsw2":"Lego Star Wars 2",
     "lotr2":"Lord Of The Rings: The Two Towers",
     "lotr3":"Lord Of The Rings: The Return Of The King",
     "mariokart":"Mario Kart: Super Circuit",
