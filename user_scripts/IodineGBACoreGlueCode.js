@@ -1,6 +1,7 @@
 "use strict";
 
 var games = {
+    "007":"007 - Everything Or Nothing",
     "advancewars":"Advance Wars",
     "advancewars2":"Advance Wars 2",
     "aladdin":"Aladdin",
@@ -13,6 +14,7 @@ var games = {
     "cbprr":"Crash Bandicoot - Purple Riptos Rampage",
     "cb2":"Crash Bandicoot 2 - N-Tranced",
     "cnk":"Crash Nitro Kart",
+    "cfpt":"Connect 4/Perfection/Trouble",
     "croket1":"Croket! - Yume no Banker Survival!",
     "croket2":"Croket! 2 - Yami no Bank to Banqueen",
     "croket3":"Croket! 3 - Granu Oukoku no Nazo",
@@ -20,6 +22,8 @@ var games = {
     "digimon_racing":"Digimon Racing",
     "dbz_supersonic":"Dragon Ball Z - Supersonic Warriors",
     "dmpl":"Dr. Mario+Puzzle League",
+    "dnd":"Dungeons And Dragons - Eye Of The Beholder",
+    "dna":"Duke Nukem Advance",
     "dkkos":"DK - King Of Swing",
     "dkc":"Donkey Kong Country",
     "dkc2":"Donkey Kong Country 2",
@@ -58,6 +62,7 @@ var games = {
     "marioland":"The Mario Land Collection",
     "marioparty":"Mario Party Advance",
     "mariopinball":"Mario Pinball Land",
+    "mta":"Mario Tennis Advance - Power Tour",
     "mvsdk":"Mario V.S. Donkey Kong",
     "megamanbass":"Megaman & Bass",
     "megaman_battle1":"Megaman Battle Network 1",
@@ -125,6 +130,7 @@ var games = {
     "tales_of_phantasia":"Tales of Phantasia",
     "tak2_staff_of_dreams":"Tak 2: The Staff of Dreams",
     "tetris_worlds":"Tetris Worlds",
+    "lyp":"The Game Of Life/Yahtzee/Payday",
     "tmnt":"Teenage Mutant Ninja Turtles",   
     "sims_bustin_out":"The Sims: Bustin' Out",
     "sims2":"The Sims 2",
