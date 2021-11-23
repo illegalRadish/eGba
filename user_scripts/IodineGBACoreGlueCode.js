@@ -74,7 +74,7 @@ var games = {
     "kirbynightmare":"Kirby: Nightmare in Dreamland",
     "lb":"Lego Bionicle",
     "li2":"Lego Island 2",
-    "lr2":"Lego Racers 2"
+    "lr2":"Lego Racers 2",
     "lsw":"Lego Star Wars",
     "lotrtfotr":"Lord Of The Rings: The Fellowship Of The Rings",
     "lotrtta":"Lord Of The Rings: The Third Age",
