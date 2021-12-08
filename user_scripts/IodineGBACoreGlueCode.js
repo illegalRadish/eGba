@@ -124,7 +124,7 @@ var games = {
     "pokemonsapphire":"Pokemon Sapphire",
     "pokemonred":"Pokemon Fire Red",
     "pokemonlp":"Pokemon Light Platinum (Ruby Mod)",
-    "gaia":"Pokemon Gaia (Fire Red Mod)"
+    "gaia":"Pokemon Gaia (Fire Red Mod)",
     "gba_video_pokemon_1":"Pokemon Video Pak 1",
     "gba_video_pokemon_2":"Pokemon Video Pak 2",
     "gba_video_pokemon_3":"Pokemon Video Pak 3",
