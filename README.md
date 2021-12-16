@@ -6,13 +6,9 @@ GBA Emulator is a free, online GBA emulator with 150+ Games to play!
 
 https://browncha023.github.io/GBA/
 
-# Netlify GBA Game Website
+# EIC Version
 
-https://unblocked-gba.netlify.app/
-
-# Render GBA Game Website
-
-~https://gba.onrender.com/~ Down For Now
+https://gba.endinternetcensorship.repl.co/
 
 <br>
 
