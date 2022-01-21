@@ -12,6 +12,4 @@ https://gba.endinternetcensorship.repl.co/
 
 <br>
 
-*Find A Game Breaking Bug?*
-
-Report it here: https://github.com/Browncha023/GBA/issues
+*This Project Is No Longer Supported!*
