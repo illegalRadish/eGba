@@ -12,4 +12,4 @@ https://gba.endinternetcensorship.repl.co/
 
 <br>
 
-*This Project Is No Longer Supported!*
+⚠️**This Project Is No Longer Supported!**⚠️
